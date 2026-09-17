@@ -51,3 +51,8 @@ package.json
 /man/
 /share/
 /src/
+
+# Custom virtual environment patterns
+venv/
+../venv/
+.venv/
